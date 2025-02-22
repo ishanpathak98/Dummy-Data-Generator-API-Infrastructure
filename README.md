@@ -14,5 +14,19 @@ A scalable, secure, and production-ready dummy data generation API deployed on A
 - [Deployment](#deployment)
 - [Monitoring](#monitoring)
 
+# 🏗️ Architecture Overview
+
+![Architecture Diagram](./docs/images/architecture.png)
+
+The application implements a modern cloud-native architecture with:
+- Containerized NodeJS API
+- Authentication & Rate Limiting
+- Blue-Green Deployment
+- Comprehensive Monitoring
+- Automated CI/CD Pipeline
+
+
+
+
 
 
