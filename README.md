@@ -25,6 +25,47 @@ The application implements a modern cloud-native architecture with:
 - Comprehensive Monitoring
 - Automated CI/CD Pipeline
 
+## ✨ Features
+
+- **API Security**
+  - AWS Cognito Authentication
+  - API Gateway Rate Limiting
+  - WAF Protection
+
+- **High Availability**
+  - Multi-AZ Deployment
+  - Auto-scaling
+  - Blue-Green Deployment
+
+- **Monitoring & Observability**
+  - Prometheus Metrics
+  - Grafana Dashboards
+  - CloudWatch Integration
+
+- **DevSecOps**
+  - Automated CI/CD
+  - Security Scanning
+  - Code Quality Checks
+
+## 🛠️ Infrastructure Components
+
+### Core Services
+- AWS ECS (Elastic Container Service)
+- Application Load Balancer
+- Amazon ECR
+- AWS Cognito
+- API Gateway
+
+### Monitoring Stack
+- Prometheus
+- Grafana
+- CloudWatch
+
+### CI/CD Pipeline
+- GitHub Actions
+- SonarQube
+- Trivy
+
 
 
 
